@@ -1,1 +1,4 @@
-# Reinforcement_price
+# Optimizing Dynamic Pricing with Reinforcement Learning
+Utilizing DDPG and SHAP for Pricing Strategies in Retail
+Retail pricing strategies are important for optimizing sales and profits. Effective pricing influences consumer behavior and maximizes revenue by considering demand, market conditions, and competition. For example, retailers can strategically adjust prices and apply discounts to boost sales and increase profitability.
+This paper explores a reinforcement learning approach using the Deep Deterministic Policy Gradient (DDPG) algorithm to optimize pricing strategies. By dynamically adjusting prices and discounts, we can improve pricing decisions. Additionally, SHAP (Shapley Additive Explanations) values provide insights into the impact of price, discount, and sales on the model's decisions. This combined approach enhances the traditional pricing model by incorporating real-time analysis and explainable AI techniques.
